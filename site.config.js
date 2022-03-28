@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'a199bad26f2c43b4a4bb9a7eec9ca6eb',
+  rootNotionPageId: 'Design-For-Goodness-a199bad26f2c43b4a4bb9a7eec9ca6eb',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'ATC workplace',
-  domain: 'https://wool-effect-528.notion.site/Design-For-Goodness-a199bad26f2c43b4a4bb9a7eec9ca6eb',
+  domain: 'https://www.notion.so/Design-For-Goodness-a199bad26f2c43b4a4bb9a7eec9ca6eb',
   author: 'ATC',
 
   // open graph metadata (optional)
