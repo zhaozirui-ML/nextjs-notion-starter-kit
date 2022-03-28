@@ -7,8 +7,8 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'ATC Workapce',
-  domain: 'https://wool-effect-528.notion.site/HI-ATC-a199bad26f2c43b4a4bb9a7eec9ca6eb',
+  name: 'ATC workplace',
+  domain: 'https://wool-effect-528.notion.site/Design-For-Goodness-a199bad26f2c43b4a4bb9a7eec9ca6eb',
   author: 'ATC',
 
   // open graph metadata (optional)
@@ -19,7 +19,7 @@ module.exports = {
   // social usernames (optional)
   twitter: 'zhaozirui3',
   github: 'ATC',
-  instagram: 'atc12138',
+  linkedin: 'atc12138',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
